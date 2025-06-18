@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author fraja
+ *
+ */
+module javaStackTwo {
+}
